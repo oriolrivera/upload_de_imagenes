@@ -1,0 +1,10 @@
+<?php
+
+ require_once("subir.php");
+
+  $obj=new Controller();
+
+  $obj=$obj->Trabajo_Img();
+
+
+?>
